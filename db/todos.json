@@ -1,19 +1,14 @@
 {
   "todos": [
     {
-      "id": 1,
-      "title": "Feed the cat",
-      "completed": false
+      "title": "13",
+      "completed": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Cut the grass",
-      "completed": true
-    },
-    {
-      "id": 3,
-      "title": "Fix the gutters",
-      "completed": true
+      "title": "14",
+      "completed": false,
+      "id": 2
     }
   ]
 }
